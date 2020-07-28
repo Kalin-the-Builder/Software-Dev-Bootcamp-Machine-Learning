@@ -1,2 +1,3 @@
 # Software-Dev-Bootcamp-Machine-Learning
-Ploynomial Regression
+
+Polynomial Regression
